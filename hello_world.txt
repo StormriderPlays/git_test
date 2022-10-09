@@ -1,0 +1,2 @@
+Whatever happens here happens!
+I hope to create the best that I can while learning with The Odin Project!
